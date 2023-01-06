@@ -1,6 +1,6 @@
 # Some facts about me
 
-![](C:\Users\Mi\Documents\Netology\Practice_and_homework\HW_about_myself/IMG-20221006-WA0001.jpg)
+![](IMG-20221006-WA0001.jpg)
 
 ## Starostina Eka
 
